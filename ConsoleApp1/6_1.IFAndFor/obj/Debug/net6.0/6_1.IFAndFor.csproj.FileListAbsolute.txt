@@ -1,0 +1,14 @@
+C:\_Workspace\Week1Project\ConsoleApp1\6_1.IFAndFor\bin\Debug\net6.0\6_1.IFAndFor.exe
+C:\_Workspace\Week1Project\ConsoleApp1\6_1.IFAndFor\bin\Debug\net6.0\6_1.IFAndFor.deps.json
+C:\_Workspace\Week1Project\ConsoleApp1\6_1.IFAndFor\bin\Debug\net6.0\6_1.IFAndFor.runtimeconfig.json
+C:\_Workspace\Week1Project\ConsoleApp1\6_1.IFAndFor\bin\Debug\net6.0\6_1.IFAndFor.dll
+C:\_Workspace\Week1Project\ConsoleApp1\6_1.IFAndFor\bin\Debug\net6.0\6_1.IFAndFor.pdb
+C:\_Workspace\Week1Project\ConsoleApp1\6_1.IFAndFor\obj\Debug\net6.0\6_1.IFAndFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\_Workspace\Week1Project\ConsoleApp1\6_1.IFAndFor\obj\Debug\net6.0\6_1.IFAndFor.AssemblyInfoInputs.cache
+C:\_Workspace\Week1Project\ConsoleApp1\6_1.IFAndFor\obj\Debug\net6.0\6_1.IFAndFor.AssemblyInfo.cs
+C:\_Workspace\Week1Project\ConsoleApp1\6_1.IFAndFor\obj\Debug\net6.0\6_1.IFAndFor.csproj.CoreCompileInputs.cache
+C:\_Workspace\Week1Project\ConsoleApp1\6_1.IFAndFor\obj\Debug\net6.0\6_1.IFAndFor.dll
+C:\_Workspace\Week1Project\ConsoleApp1\6_1.IFAndFor\obj\Debug\net6.0\refint\6_1.IFAndFor.dll
+C:\_Workspace\Week1Project\ConsoleApp1\6_1.IFAndFor\obj\Debug\net6.0\6_1.IFAndFor.pdb
+C:\_Workspace\Week1Project\ConsoleApp1\6_1.IFAndFor\obj\Debug\net6.0\6_1.IFAndFor.genruntimeconfig.cache
+C:\_Workspace\Week1Project\ConsoleApp1\6_1.IFAndFor\obj\Debug\net6.0\ref\6_1.IFAndFor.dll

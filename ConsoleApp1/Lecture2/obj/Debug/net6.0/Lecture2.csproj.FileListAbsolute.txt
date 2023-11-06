@@ -1,0 +1,14 @@
+C:\_Workspace\Week1Project\ConsoleApp1\Lecture2\bin\Debug\net6.0\Lecture2.exe
+C:\_Workspace\Week1Project\ConsoleApp1\Lecture2\bin\Debug\net6.0\Lecture2.deps.json
+C:\_Workspace\Week1Project\ConsoleApp1\Lecture2\bin\Debug\net6.0\Lecture2.runtimeconfig.json
+C:\_Workspace\Week1Project\ConsoleApp1\Lecture2\bin\Debug\net6.0\Lecture2.dll
+C:\_Workspace\Week1Project\ConsoleApp1\Lecture2\bin\Debug\net6.0\Lecture2.pdb
+C:\_Workspace\Week1Project\ConsoleApp1\Lecture2\obj\Debug\net6.0\Lecture2.GeneratedMSBuildEditorConfig.editorconfig
+C:\_Workspace\Week1Project\ConsoleApp1\Lecture2\obj\Debug\net6.0\Lecture2.AssemblyInfoInputs.cache
+C:\_Workspace\Week1Project\ConsoleApp1\Lecture2\obj\Debug\net6.0\Lecture2.AssemblyInfo.cs
+C:\_Workspace\Week1Project\ConsoleApp1\Lecture2\obj\Debug\net6.0\Lecture2.csproj.CoreCompileInputs.cache
+C:\_Workspace\Week1Project\ConsoleApp1\Lecture2\obj\Debug\net6.0\Lecture2.dll
+C:\_Workspace\Week1Project\ConsoleApp1\Lecture2\obj\Debug\net6.0\refint\Lecture2.dll
+C:\_Workspace\Week1Project\ConsoleApp1\Lecture2\obj\Debug\net6.0\Lecture2.pdb
+C:\_Workspace\Week1Project\ConsoleApp1\Lecture2\obj\Debug\net6.0\Lecture2.genruntimeconfig.cache
+C:\_Workspace\Week1Project\ConsoleApp1\Lecture2\obj\Debug\net6.0\ref\Lecture2.dll

@@ -1,0 +1,14 @@
+C:\_Workspace\Week1Project\ConsoleApp1\Operator\bin\Debug\net6.0\4.Operator.exe
+C:\_Workspace\Week1Project\ConsoleApp1\Operator\bin\Debug\net6.0\4.Operator.deps.json
+C:\_Workspace\Week1Project\ConsoleApp1\Operator\bin\Debug\net6.0\4.Operator.runtimeconfig.json
+C:\_Workspace\Week1Project\ConsoleApp1\Operator\bin\Debug\net6.0\4.Operator.dll
+C:\_Workspace\Week1Project\ConsoleApp1\Operator\bin\Debug\net6.0\4.Operator.pdb
+C:\_Workspace\Week1Project\ConsoleApp1\Operator\obj\Debug\net6.0\4.Operator.GeneratedMSBuildEditorConfig.editorconfig
+C:\_Workspace\Week1Project\ConsoleApp1\Operator\obj\Debug\net6.0\4.Operator.AssemblyInfoInputs.cache
+C:\_Workspace\Week1Project\ConsoleApp1\Operator\obj\Debug\net6.0\4.Operator.AssemblyInfo.cs
+C:\_Workspace\Week1Project\ConsoleApp1\Operator\obj\Debug\net6.0\4.Operator.csproj.CoreCompileInputs.cache
+C:\_Workspace\Week1Project\ConsoleApp1\Operator\obj\Debug\net6.0\4.Operator.dll
+C:\_Workspace\Week1Project\ConsoleApp1\Operator\obj\Debug\net6.0\refint\4.Operator.dll
+C:\_Workspace\Week1Project\ConsoleApp1\Operator\obj\Debug\net6.0\4.Operator.pdb
+C:\_Workspace\Week1Project\ConsoleApp1\Operator\obj\Debug\net6.0\4.Operator.genruntimeconfig.cache
+C:\_Workspace\Week1Project\ConsoleApp1\Operator\obj\Debug\net6.0\ref\4.Operator.dll

@@ -1,0 +1,14 @@
+C:\_Workspace\Week1Project\ConsoleApp1\5.Homework1\bin\Debug\net6.0\5.Homework1.exe
+C:\_Workspace\Week1Project\ConsoleApp1\5.Homework1\bin\Debug\net6.0\5.Homework1.deps.json
+C:\_Workspace\Week1Project\ConsoleApp1\5.Homework1\bin\Debug\net6.0\5.Homework1.runtimeconfig.json
+C:\_Workspace\Week1Project\ConsoleApp1\5.Homework1\bin\Debug\net6.0\5.Homework1.dll
+C:\_Workspace\Week1Project\ConsoleApp1\5.Homework1\bin\Debug\net6.0\5.Homework1.pdb
+C:\_Workspace\Week1Project\ConsoleApp1\5.Homework1\obj\Debug\net6.0\5.Homework1.GeneratedMSBuildEditorConfig.editorconfig
+C:\_Workspace\Week1Project\ConsoleApp1\5.Homework1\obj\Debug\net6.0\5.Homework1.AssemblyInfoInputs.cache
+C:\_Workspace\Week1Project\ConsoleApp1\5.Homework1\obj\Debug\net6.0\5.Homework1.AssemblyInfo.cs
+C:\_Workspace\Week1Project\ConsoleApp1\5.Homework1\obj\Debug\net6.0\5.Homework1.csproj.CoreCompileInputs.cache
+C:\_Workspace\Week1Project\ConsoleApp1\5.Homework1\obj\Debug\net6.0\5.Homework1.dll
+C:\_Workspace\Week1Project\ConsoleApp1\5.Homework1\obj\Debug\net6.0\refint\5.Homework1.dll
+C:\_Workspace\Week1Project\ConsoleApp1\5.Homework1\obj\Debug\net6.0\5.Homework1.pdb
+C:\_Workspace\Week1Project\ConsoleApp1\5.Homework1\obj\Debug\net6.0\5.Homework1.genruntimeconfig.cache
+C:\_Workspace\Week1Project\ConsoleApp1\5.Homework1\obj\Debug\net6.0\ref\5.Homework1.dll

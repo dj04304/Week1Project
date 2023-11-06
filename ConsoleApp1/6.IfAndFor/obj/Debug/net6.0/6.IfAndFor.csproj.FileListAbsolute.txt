@@ -1,0 +1,14 @@
+C:\_Workspace\Week1Project\ConsoleApp1\6.IfAndFor\bin\Debug\net6.0\6.IfAndFor.exe
+C:\_Workspace\Week1Project\ConsoleApp1\6.IfAndFor\bin\Debug\net6.0\6.IfAndFor.deps.json
+C:\_Workspace\Week1Project\ConsoleApp1\6.IfAndFor\bin\Debug\net6.0\6.IfAndFor.runtimeconfig.json
+C:\_Workspace\Week1Project\ConsoleApp1\6.IfAndFor\bin\Debug\net6.0\6.IfAndFor.dll
+C:\_Workspace\Week1Project\ConsoleApp1\6.IfAndFor\bin\Debug\net6.0\6.IfAndFor.pdb
+C:\_Workspace\Week1Project\ConsoleApp1\6.IfAndFor\obj\Debug\net6.0\6.IfAndFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\_Workspace\Week1Project\ConsoleApp1\6.IfAndFor\obj\Debug\net6.0\6.IfAndFor.AssemblyInfoInputs.cache
+C:\_Workspace\Week1Project\ConsoleApp1\6.IfAndFor\obj\Debug\net6.0\6.IfAndFor.AssemblyInfo.cs
+C:\_Workspace\Week1Project\ConsoleApp1\6.IfAndFor\obj\Debug\net6.0\6.IfAndFor.csproj.CoreCompileInputs.cache
+C:\_Workspace\Week1Project\ConsoleApp1\6.IfAndFor\obj\Debug\net6.0\6.IfAndFor.dll
+C:\_Workspace\Week1Project\ConsoleApp1\6.IfAndFor\obj\Debug\net6.0\refint\6.IfAndFor.dll
+C:\_Workspace\Week1Project\ConsoleApp1\6.IfAndFor\obj\Debug\net6.0\6.IfAndFor.pdb
+C:\_Workspace\Week1Project\ConsoleApp1\6.IfAndFor\obj\Debug\net6.0\6.IfAndFor.genruntimeconfig.cache
+C:\_Workspace\Week1Project\ConsoleApp1\6.IfAndFor\obj\Debug\net6.0\ref\6.IfAndFor.dll

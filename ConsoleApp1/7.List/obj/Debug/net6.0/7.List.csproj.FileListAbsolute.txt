@@ -1,0 +1,14 @@
+C:\_Workspace\Week1Project\ConsoleApp1\7.List\bin\Debug\net6.0\7.List.exe
+C:\_Workspace\Week1Project\ConsoleApp1\7.List\bin\Debug\net6.0\7.List.deps.json
+C:\_Workspace\Week1Project\ConsoleApp1\7.List\bin\Debug\net6.0\7.List.runtimeconfig.json
+C:\_Workspace\Week1Project\ConsoleApp1\7.List\bin\Debug\net6.0\7.List.dll
+C:\_Workspace\Week1Project\ConsoleApp1\7.List\bin\Debug\net6.0\7.List.pdb
+C:\_Workspace\Week1Project\ConsoleApp1\7.List\obj\Debug\net6.0\7.List.GeneratedMSBuildEditorConfig.editorconfig
+C:\_Workspace\Week1Project\ConsoleApp1\7.List\obj\Debug\net6.0\7.List.AssemblyInfoInputs.cache
+C:\_Workspace\Week1Project\ConsoleApp1\7.List\obj\Debug\net6.0\7.List.AssemblyInfo.cs
+C:\_Workspace\Week1Project\ConsoleApp1\7.List\obj\Debug\net6.0\7.List.csproj.CoreCompileInputs.cache
+C:\_Workspace\Week1Project\ConsoleApp1\7.List\obj\Debug\net6.0\7.List.dll
+C:\_Workspace\Week1Project\ConsoleApp1\7.List\obj\Debug\net6.0\refint\7.List.dll
+C:\_Workspace\Week1Project\ConsoleApp1\7.List\obj\Debug\net6.0\7.List.pdb
+C:\_Workspace\Week1Project\ConsoleApp1\7.List\obj\Debug\net6.0\7.List.genruntimeconfig.cache
+C:\_Workspace\Week1Project\ConsoleApp1\7.List\obj\Debug\net6.0\ref\7.List.dll

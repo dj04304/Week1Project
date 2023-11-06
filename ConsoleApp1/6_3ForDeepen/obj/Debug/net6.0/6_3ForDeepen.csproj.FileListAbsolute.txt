@@ -1,0 +1,14 @@
+C:\_Workspace\Week1Project\ConsoleApp1\6_3ForDeepen\bin\Debug\net6.0\6_3ForDeepen.exe
+C:\_Workspace\Week1Project\ConsoleApp1\6_3ForDeepen\bin\Debug\net6.0\6_3ForDeepen.deps.json
+C:\_Workspace\Week1Project\ConsoleApp1\6_3ForDeepen\bin\Debug\net6.0\6_3ForDeepen.runtimeconfig.json
+C:\_Workspace\Week1Project\ConsoleApp1\6_3ForDeepen\bin\Debug\net6.0\6_3ForDeepen.dll
+C:\_Workspace\Week1Project\ConsoleApp1\6_3ForDeepen\bin\Debug\net6.0\6_3ForDeepen.pdb
+C:\_Workspace\Week1Project\ConsoleApp1\6_3ForDeepen\obj\Debug\net6.0\6_3ForDeepen.GeneratedMSBuildEditorConfig.editorconfig
+C:\_Workspace\Week1Project\ConsoleApp1\6_3ForDeepen\obj\Debug\net6.0\6_3ForDeepen.AssemblyInfoInputs.cache
+C:\_Workspace\Week1Project\ConsoleApp1\6_3ForDeepen\obj\Debug\net6.0\6_3ForDeepen.AssemblyInfo.cs
+C:\_Workspace\Week1Project\ConsoleApp1\6_3ForDeepen\obj\Debug\net6.0\6_3ForDeepen.csproj.CoreCompileInputs.cache
+C:\_Workspace\Week1Project\ConsoleApp1\6_3ForDeepen\obj\Debug\net6.0\6_3ForDeepen.dll
+C:\_Workspace\Week1Project\ConsoleApp1\6_3ForDeepen\obj\Debug\net6.0\refint\6_3ForDeepen.dll
+C:\_Workspace\Week1Project\ConsoleApp1\6_3ForDeepen\obj\Debug\net6.0\6_3ForDeepen.pdb
+C:\_Workspace\Week1Project\ConsoleApp1\6_3ForDeepen\obj\Debug\net6.0\6_3ForDeepen.genruntimeconfig.cache
+C:\_Workspace\Week1Project\ConsoleApp1\6_3ForDeepen\obj\Debug\net6.0\ref\6_3ForDeepen.dll
