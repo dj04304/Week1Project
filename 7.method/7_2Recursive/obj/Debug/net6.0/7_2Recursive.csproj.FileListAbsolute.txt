@@ -1,0 +1,14 @@
+C:\_Workspace\Week1Project\7.method\7_2Recursive\bin\Debug\net6.0\7_2Recursive.exe
+C:\_Workspace\Week1Project\7.method\7_2Recursive\bin\Debug\net6.0\7_2Recursive.deps.json
+C:\_Workspace\Week1Project\7.method\7_2Recursive\bin\Debug\net6.0\7_2Recursive.runtimeconfig.json
+C:\_Workspace\Week1Project\7.method\7_2Recursive\bin\Debug\net6.0\7_2Recursive.dll
+C:\_Workspace\Week1Project\7.method\7_2Recursive\bin\Debug\net6.0\7_2Recursive.pdb
+C:\_Workspace\Week1Project\7.method\7_2Recursive\obj\Debug\net6.0\7_2Recursive.GeneratedMSBuildEditorConfig.editorconfig
+C:\_Workspace\Week1Project\7.method\7_2Recursive\obj\Debug\net6.0\7_2Recursive.AssemblyInfoInputs.cache
+C:\_Workspace\Week1Project\7.method\7_2Recursive\obj\Debug\net6.0\7_2Recursive.AssemblyInfo.cs
+C:\_Workspace\Week1Project\7.method\7_2Recursive\obj\Debug\net6.0\7_2Recursive.csproj.CoreCompileInputs.cache
+C:\_Workspace\Week1Project\7.method\7_2Recursive\obj\Debug\net6.0\7_2Recursive.dll
+C:\_Workspace\Week1Project\7.method\7_2Recursive\obj\Debug\net6.0\refint\7_2Recursive.dll
+C:\_Workspace\Week1Project\7.method\7_2Recursive\obj\Debug\net6.0\7_2Recursive.pdb
+C:\_Workspace\Week1Project\7.method\7_2Recursive\obj\Debug\net6.0\7_2Recursive.genruntimeconfig.cache
+C:\_Workspace\Week1Project\7.method\7_2Recursive\obj\Debug\net6.0\ref\7_2Recursive.dll
