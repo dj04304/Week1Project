@@ -1,0 +1,14 @@
+C:\_Workspace\Week1Project\3_1Class\3_4Virtual\bin\Debug\net6.0\3_4Virtual.exe
+C:\_Workspace\Week1Project\3_1Class\3_4Virtual\bin\Debug\net6.0\3_4Virtual.deps.json
+C:\_Workspace\Week1Project\3_1Class\3_4Virtual\bin\Debug\net6.0\3_4Virtual.runtimeconfig.json
+C:\_Workspace\Week1Project\3_1Class\3_4Virtual\bin\Debug\net6.0\3_4Virtual.dll
+C:\_Workspace\Week1Project\3_1Class\3_4Virtual\bin\Debug\net6.0\3_4Virtual.pdb
+C:\_Workspace\Week1Project\3_1Class\3_4Virtual\obj\Debug\net6.0\3_4Virtual.GeneratedMSBuildEditorConfig.editorconfig
+C:\_Workspace\Week1Project\3_1Class\3_4Virtual\obj\Debug\net6.0\3_4Virtual.AssemblyInfoInputs.cache
+C:\_Workspace\Week1Project\3_1Class\3_4Virtual\obj\Debug\net6.0\3_4Virtual.AssemblyInfo.cs
+C:\_Workspace\Week1Project\3_1Class\3_4Virtual\obj\Debug\net6.0\3_4Virtual.csproj.CoreCompileInputs.cache
+C:\_Workspace\Week1Project\3_1Class\3_4Virtual\obj\Debug\net6.0\3_4Virtual.dll
+C:\_Workspace\Week1Project\3_1Class\3_4Virtual\obj\Debug\net6.0\refint\3_4Virtual.dll
+C:\_Workspace\Week1Project\3_1Class\3_4Virtual\obj\Debug\net6.0\3_4Virtual.pdb
+C:\_Workspace\Week1Project\3_1Class\3_4Virtual\obj\Debug\net6.0\3_4Virtual.genruntimeconfig.cache
+C:\_Workspace\Week1Project\3_1Class\3_4Virtual\obj\Debug\net6.0\ref\3_4Virtual.dll

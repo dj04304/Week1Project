@@ -1,0 +1,14 @@
+C:\_Workspace\Week1Project\3_1Class\3_2Constructor\bin\Debug\net6.0\3_2Constructor.exe
+C:\_Workspace\Week1Project\3_1Class\3_2Constructor\bin\Debug\net6.0\3_2Constructor.deps.json
+C:\_Workspace\Week1Project\3_1Class\3_2Constructor\bin\Debug\net6.0\3_2Constructor.runtimeconfig.json
+C:\_Workspace\Week1Project\3_1Class\3_2Constructor\bin\Debug\net6.0\3_2Constructor.dll
+C:\_Workspace\Week1Project\3_1Class\3_2Constructor\bin\Debug\net6.0\3_2Constructor.pdb
+C:\_Workspace\Week1Project\3_1Class\3_2Constructor\obj\Debug\net6.0\3_2Constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\_Workspace\Week1Project\3_1Class\3_2Constructor\obj\Debug\net6.0\3_2Constructor.AssemblyInfoInputs.cache
+C:\_Workspace\Week1Project\3_1Class\3_2Constructor\obj\Debug\net6.0\3_2Constructor.AssemblyInfo.cs
+C:\_Workspace\Week1Project\3_1Class\3_2Constructor\obj\Debug\net6.0\3_2Constructor.csproj.CoreCompileInputs.cache
+C:\_Workspace\Week1Project\3_1Class\3_2Constructor\obj\Debug\net6.0\3_2Constructor.dll
+C:\_Workspace\Week1Project\3_1Class\3_2Constructor\obj\Debug\net6.0\refint\3_2Constructor.dll
+C:\_Workspace\Week1Project\3_1Class\3_2Constructor\obj\Debug\net6.0\3_2Constructor.pdb
+C:\_Workspace\Week1Project\3_1Class\3_2Constructor\obj\Debug\net6.0\3_2Constructor.genruntimeconfig.cache
+C:\_Workspace\Week1Project\3_1Class\3_2Constructor\obj\Debug\net6.0\ref\3_2Constructor.dll

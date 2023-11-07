@@ -1,0 +1,14 @@
+C:\_Workspace\Week1Project\3_1Class\3_7Generic2\bin\Debug\net6.0\3_7Generic2.exe
+C:\_Workspace\Week1Project\3_1Class\3_7Generic2\bin\Debug\net6.0\3_7Generic2.deps.json
+C:\_Workspace\Week1Project\3_1Class\3_7Generic2\bin\Debug\net6.0\3_7Generic2.runtimeconfig.json
+C:\_Workspace\Week1Project\3_1Class\3_7Generic2\bin\Debug\net6.0\3_7Generic2.dll
+C:\_Workspace\Week1Project\3_1Class\3_7Generic2\bin\Debug\net6.0\3_7Generic2.pdb
+C:\_Workspace\Week1Project\3_1Class\3_7Generic2\obj\Debug\net6.0\3_7Generic2.GeneratedMSBuildEditorConfig.editorconfig
+C:\_Workspace\Week1Project\3_1Class\3_7Generic2\obj\Debug\net6.0\3_7Generic2.AssemblyInfoInputs.cache
+C:\_Workspace\Week1Project\3_1Class\3_7Generic2\obj\Debug\net6.0\3_7Generic2.AssemblyInfo.cs
+C:\_Workspace\Week1Project\3_1Class\3_7Generic2\obj\Debug\net6.0\3_7Generic2.csproj.CoreCompileInputs.cache
+C:\_Workspace\Week1Project\3_1Class\3_7Generic2\obj\Debug\net6.0\3_7Generic2.dll
+C:\_Workspace\Week1Project\3_1Class\3_7Generic2\obj\Debug\net6.0\refint\3_7Generic2.dll
+C:\_Workspace\Week1Project\3_1Class\3_7Generic2\obj\Debug\net6.0\3_7Generic2.pdb
+C:\_Workspace\Week1Project\3_1Class\3_7Generic2\obj\Debug\net6.0\3_7Generic2.genruntimeconfig.cache
+C:\_Workspace\Week1Project\3_1Class\3_7Generic2\obj\Debug\net6.0\ref\3_7Generic2.dll

@@ -1,0 +1,14 @@
+C:\_Workspace\Week1Project\3_1Class\3_9HomeWork\bin\Debug\net6.0\3_9HomeWork.exe
+C:\_Workspace\Week1Project\3_1Class\3_9HomeWork\bin\Debug\net6.0\3_9HomeWork.deps.json
+C:\_Workspace\Week1Project\3_1Class\3_9HomeWork\bin\Debug\net6.0\3_9HomeWork.runtimeconfig.json
+C:\_Workspace\Week1Project\3_1Class\3_9HomeWork\bin\Debug\net6.0\3_9HomeWork.dll
+C:\_Workspace\Week1Project\3_1Class\3_9HomeWork\bin\Debug\net6.0\3_9HomeWork.pdb
+C:\_Workspace\Week1Project\3_1Class\3_9HomeWork\obj\Debug\net6.0\3_9HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\_Workspace\Week1Project\3_1Class\3_9HomeWork\obj\Debug\net6.0\3_9HomeWork.AssemblyInfoInputs.cache
+C:\_Workspace\Week1Project\3_1Class\3_9HomeWork\obj\Debug\net6.0\3_9HomeWork.AssemblyInfo.cs
+C:\_Workspace\Week1Project\3_1Class\3_9HomeWork\obj\Debug\net6.0\3_9HomeWork.csproj.CoreCompileInputs.cache
+C:\_Workspace\Week1Project\3_1Class\3_9HomeWork\obj\Debug\net6.0\3_9HomeWork.dll
+C:\_Workspace\Week1Project\3_1Class\3_9HomeWork\obj\Debug\net6.0\refint\3_9HomeWork.dll
+C:\_Workspace\Week1Project\3_1Class\3_9HomeWork\obj\Debug\net6.0\3_9HomeWork.pdb
+C:\_Workspace\Week1Project\3_1Class\3_9HomeWork\obj\Debug\net6.0\3_9HomeWork.genruntimeconfig.cache
+C:\_Workspace\Week1Project\3_1Class\3_9HomeWork\obj\Debug\net6.0\ref\3_9HomeWork.dll

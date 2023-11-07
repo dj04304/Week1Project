@@ -1,0 +1,14 @@
+C:\_Workspace\Week1Project\3_1Class\3_8OutAndRef\bin\Debug\net6.0\3_8OutAndRef.exe
+C:\_Workspace\Week1Project\3_1Class\3_8OutAndRef\bin\Debug\net6.0\3_8OutAndRef.deps.json
+C:\_Workspace\Week1Project\3_1Class\3_8OutAndRef\bin\Debug\net6.0\3_8OutAndRef.runtimeconfig.json
+C:\_Workspace\Week1Project\3_1Class\3_8OutAndRef\bin\Debug\net6.0\3_8OutAndRef.dll
+C:\_Workspace\Week1Project\3_1Class\3_8OutAndRef\bin\Debug\net6.0\3_8OutAndRef.pdb
+C:\_Workspace\Week1Project\3_1Class\3_8OutAndRef\obj\Debug\net6.0\3_8OutAndRef.GeneratedMSBuildEditorConfig.editorconfig
+C:\_Workspace\Week1Project\3_1Class\3_8OutAndRef\obj\Debug\net6.0\3_8OutAndRef.AssemblyInfoInputs.cache
+C:\_Workspace\Week1Project\3_1Class\3_8OutAndRef\obj\Debug\net6.0\3_8OutAndRef.AssemblyInfo.cs
+C:\_Workspace\Week1Project\3_1Class\3_8OutAndRef\obj\Debug\net6.0\3_8OutAndRef.csproj.CoreCompileInputs.cache
+C:\_Workspace\Week1Project\3_1Class\3_8OutAndRef\obj\Debug\net6.0\3_8OutAndRef.dll
+C:\_Workspace\Week1Project\3_1Class\3_8OutAndRef\obj\Debug\net6.0\refint\3_8OutAndRef.dll
+C:\_Workspace\Week1Project\3_1Class\3_8OutAndRef\obj\Debug\net6.0\3_8OutAndRef.pdb
+C:\_Workspace\Week1Project\3_1Class\3_8OutAndRef\obj\Debug\net6.0\3_8OutAndRef.genruntimeconfig.cache
+C:\_Workspace\Week1Project\3_1Class\3_8OutAndRef\obj\Debug\net6.0\ref\3_8OutAndRef.dll

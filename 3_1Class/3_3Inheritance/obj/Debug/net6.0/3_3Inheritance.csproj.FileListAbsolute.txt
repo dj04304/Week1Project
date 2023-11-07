@@ -1,0 +1,14 @@
+C:\_Workspace\Week1Project\3_1Class\3_3Inheritance\bin\Debug\net6.0\3_3Inheritance.exe
+C:\_Workspace\Week1Project\3_1Class\3_3Inheritance\bin\Debug\net6.0\3_3Inheritance.deps.json
+C:\_Workspace\Week1Project\3_1Class\3_3Inheritance\bin\Debug\net6.0\3_3Inheritance.runtimeconfig.json
+C:\_Workspace\Week1Project\3_1Class\3_3Inheritance\bin\Debug\net6.0\3_3Inheritance.dll
+C:\_Workspace\Week1Project\3_1Class\3_3Inheritance\bin\Debug\net6.0\3_3Inheritance.pdb
+C:\_Workspace\Week1Project\3_1Class\3_3Inheritance\obj\Debug\net6.0\3_3Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\_Workspace\Week1Project\3_1Class\3_3Inheritance\obj\Debug\net6.0\3_3Inheritance.AssemblyInfoInputs.cache
+C:\_Workspace\Week1Project\3_1Class\3_3Inheritance\obj\Debug\net6.0\3_3Inheritance.AssemblyInfo.cs
+C:\_Workspace\Week1Project\3_1Class\3_3Inheritance\obj\Debug\net6.0\3_3Inheritance.csproj.CoreCompileInputs.cache
+C:\_Workspace\Week1Project\3_1Class\3_3Inheritance\obj\Debug\net6.0\3_3Inheritance.dll
+C:\_Workspace\Week1Project\3_1Class\3_3Inheritance\obj\Debug\net6.0\refint\3_3Inheritance.dll
+C:\_Workspace\Week1Project\3_1Class\3_3Inheritance\obj\Debug\net6.0\3_3Inheritance.pdb
+C:\_Workspace\Week1Project\3_1Class\3_3Inheritance\obj\Debug\net6.0\3_3Inheritance.genruntimeconfig.cache
+C:\_Workspace\Week1Project\3_1Class\3_3Inheritance\obj\Debug\net6.0\ref\3_3Inheritance.dll
