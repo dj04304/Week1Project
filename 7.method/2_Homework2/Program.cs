@@ -41,6 +41,8 @@
         static void DisplayBoard()
         {
             Console.Clear();
+
+            // 좌표 써놓기
             Console.WriteLine("  0 1 2");
             for (int row = 0; row < 3; row++)
             {
@@ -62,6 +64,7 @@
             }
         }
 
+        //게임시 플레이어가 좌표 
         static void PlayerInputNum()
         {
             int row, col;

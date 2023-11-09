@@ -21,6 +21,8 @@
         static int foodX;
         static int foodY;
 
+        static int addPos = 0;
+
         //랜덤 값
         static Random random = new Random();
 
@@ -34,6 +36,7 @@
         // 화면 초기값
         static void InitialValue()
         {
+            // 뱀 초기 위치
             X[0] = width - 30;
             Y[0] = height / 2;
 
@@ -48,24 +51,27 @@
             Console.Clear();
 
             // 가로 열 네모칸
-            for (int i = 0; i < width; i++)
+            for (int i = 0; i < width; i += 2)
             {
                 Console.SetCursorPosition(i, 0);
-                Console.WriteLine("■");
-                Console.SetCursorPosition(i, height - 1);
-                Console.WriteLine("■");
+                Console.Write("□");
+                //Console.Write("@");
+                Console.SetCursorPosition(i, height-1);
+                Console.Write("□");
+                //Console.Write("@");
             }
 
             // 세로 열 네모칸
             for (int i = 0; i < height; i++)
             {
                 Console.SetCursorPosition(0, i);
-                Console.WriteLine("■");
-                if (i > 0 && i < width - 2 && i < height - 1)
-                {
-                    Console.SetCursorPosition(width, i);
-                    Console.WriteLine("■");
-                }
+                Console.WriteLine("□");
+                Console.SetCursorPosition(width, i);
+                Console.WriteLine("□");
+                //if (i > 0 && i < width - 2 && i < height - 1)
+                //{
+
+                //}
             }
         }
 
@@ -78,8 +84,7 @@
                 if (X[i] != 0 || Y[i] != 0)
                 {
                     Console.SetCursorPosition(X[i], Y[i]);
-                    Console.Write("■");
-                    //width++;
+                    Console.Write("□");
                 }
             }
         }
@@ -167,15 +172,19 @@
             {
                 case Direction.UP :
                     newHeadY--;
+                    addPos = 0;
                     break;
                 case Direction.DOWN:
                     newHeadY++;
+                    addPos = 0;
                     break;
                 case Direction.LEFT:
                     newHeadX--;
+                    addPos = 1;
                     break;
                 case Direction.RIGHT:
-                    newHeadX++;
+                    newHeadX ++;
+                    addPos = -1;
                     break;
             }
 
@@ -187,11 +196,25 @@
                 x[2] = x[1]
                 x[1] = x[0]
              */
-            for (int i = tailLength - 1; i > 0; i--)
+            //for (int i = tailLength - 1; i > 0; i--)
+            //{
+            //    X[i] = X[i - 1];
+            //    Y[i] = Y[i - 1];
+            //}
+
+            for(int i = tailLength -1; i > 0; i--)
             {
-                X[i] = X[i - 1];
-                Y[i] = Y[i - 1];
+                int prevTailX = X[i - 1] + addPos;
+                int prevTailY = Y[i - 1];
+
+                if (X[i] != prevTailX || Y[i] != prevTailY)
+                {
+                    X[i] = prevTailX;
+                    Y[i] = prevTailY;
+                }
             }
+
+           
 
             // 머리 위치 업데이트
             X[0] = newHeadX;
@@ -199,13 +222,39 @@
 
         }
 
+        static void WriteText(string text, int xOffset, int yOffset)
+        {
+            Console.SetCursorPosition(xOffset, yOffset);
+            Console.WriteLine(text);
+        }
         // 게임 오버
         static void GameOver()
         {
+            int xOffset = 25;
+            int yOffset = 22;
+            // 벽에 부딪히면
             if (X[0] == 0 || X[0] == width || Y[0] == 0 || Y[0] == height)
             {
                 isGameOver = true;
-                Console.WriteLine($"게임 오버, 당신의 점수는 {score} 입니다.");
+                
+                Console.SetCursorPosition(xOffset, yOffset++);
+                WriteText("============================", xOffset, yOffset++);
+                WriteText("         GAME OVER", xOffset, yOffset++);
+                WriteText("============================", xOffset, yOffset++);
+                WriteText($"   당신의 점수는 {score} 입니다.", xOffset, yOffset++);
+            } 
+            else
+            {
+                //꼬리에 닿으면
+                for (int i = 1; i < tailLength; i++)
+                {
+                    if (X[0] == X[i] && Y[0] == Y[i])
+                    {
+                        isGameOver = true;
+                        Console.WriteLine($"게임 오버, 당신의 점수는 {score} 입니다.");
+                        break;
+                    }
+                }
             }
         }
 

@@ -1,0 +1,14 @@
+C:\_Workspace\Week1Project\3_1Class\3_10HomeWorkBlackJack\bin\Debug\net6.0\3_10HomeWorkBlackJack.exe
+C:\_Workspace\Week1Project\3_1Class\3_10HomeWorkBlackJack\bin\Debug\net6.0\3_10HomeWorkBlackJack.deps.json
+C:\_Workspace\Week1Project\3_1Class\3_10HomeWorkBlackJack\bin\Debug\net6.0\3_10HomeWorkBlackJack.runtimeconfig.json
+C:\_Workspace\Week1Project\3_1Class\3_10HomeWorkBlackJack\bin\Debug\net6.0\3_10HomeWorkBlackJack.dll
+C:\_Workspace\Week1Project\3_1Class\3_10HomeWorkBlackJack\bin\Debug\net6.0\3_10HomeWorkBlackJack.pdb
+C:\_Workspace\Week1Project\3_1Class\3_10HomeWorkBlackJack\obj\Debug\net6.0\3_10HomeWorkBlackJack.GeneratedMSBuildEditorConfig.editorconfig
+C:\_Workspace\Week1Project\3_1Class\3_10HomeWorkBlackJack\obj\Debug\net6.0\3_10HomeWorkBlackJack.AssemblyInfoInputs.cache
+C:\_Workspace\Week1Project\3_1Class\3_10HomeWorkBlackJack\obj\Debug\net6.0\3_10HomeWorkBlackJack.AssemblyInfo.cs
+C:\_Workspace\Week1Project\3_1Class\3_10HomeWorkBlackJack\obj\Debug\net6.0\3_10HomeWorkBlackJack.csproj.CoreCompileInputs.cache
+C:\_Workspace\Week1Project\3_1Class\3_10HomeWorkBlackJack\obj\Debug\net6.0\3_10HomeWorkBlackJack.dll
+C:\_Workspace\Week1Project\3_1Class\3_10HomeWorkBlackJack\obj\Debug\net6.0\refint\3_10HomeWorkBlackJack.dll
+C:\_Workspace\Week1Project\3_1Class\3_10HomeWorkBlackJack\obj\Debug\net6.0\3_10HomeWorkBlackJack.pdb
+C:\_Workspace\Week1Project\3_1Class\3_10HomeWorkBlackJack\obj\Debug\net6.0\3_10HomeWorkBlackJack.genruntimeconfig.cache
+C:\_Workspace\Week1Project\3_1Class\3_10HomeWorkBlackJack\obj\Debug\net6.0\ref\3_10HomeWorkBlackJack.dll
