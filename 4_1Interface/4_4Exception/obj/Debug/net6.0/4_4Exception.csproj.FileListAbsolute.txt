@@ -1,0 +1,14 @@
+C:\_Workspace\Week1Project\4_1Interface\4_4Exception\obj\Debug\net6.0\4_4Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\_Workspace\Week1Project\4_1Interface\4_4Exception\obj\Debug\net6.0\4_4Exception.AssemblyInfoInputs.cache
+C:\_Workspace\Week1Project\4_1Interface\4_4Exception\obj\Debug\net6.0\4_4Exception.AssemblyInfo.cs
+C:\_Workspace\Week1Project\4_1Interface\4_4Exception\obj\Debug\net6.0\4_4Exception.csproj.CoreCompileInputs.cache
+C:\_Workspace\Week1Project\4_1Interface\4_4Exception\bin\Debug\net6.0\4_4Exception.exe
+C:\_Workspace\Week1Project\4_1Interface\4_4Exception\bin\Debug\net6.0\4_4Exception.deps.json
+C:\_Workspace\Week1Project\4_1Interface\4_4Exception\bin\Debug\net6.0\4_4Exception.runtimeconfig.json
+C:\_Workspace\Week1Project\4_1Interface\4_4Exception\bin\Debug\net6.0\4_4Exception.dll
+C:\_Workspace\Week1Project\4_1Interface\4_4Exception\bin\Debug\net6.0\4_4Exception.pdb
+C:\_Workspace\Week1Project\4_1Interface\4_4Exception\obj\Debug\net6.0\4_4Exception.dll
+C:\_Workspace\Week1Project\4_1Interface\4_4Exception\obj\Debug\net6.0\refint\4_4Exception.dll
+C:\_Workspace\Week1Project\4_1Interface\4_4Exception\obj\Debug\net6.0\4_4Exception.pdb
+C:\_Workspace\Week1Project\4_1Interface\4_4Exception\obj\Debug\net6.0\4_4Exception.genruntimeconfig.cache
+C:\_Workspace\Week1Project\4_1Interface\4_4Exception\obj\Debug\net6.0\ref\4_4Exception.dll

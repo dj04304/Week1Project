@@ -1,0 +1,14 @@
+C:\_Workspace\Week1Project\4_1Interface\4_5Lamda\bin\Debug\net6.0\4_5Lamda.exe
+C:\_Workspace\Week1Project\4_1Interface\4_5Lamda\bin\Debug\net6.0\4_5Lamda.deps.json
+C:\_Workspace\Week1Project\4_1Interface\4_5Lamda\bin\Debug\net6.0\4_5Lamda.runtimeconfig.json
+C:\_Workspace\Week1Project\4_1Interface\4_5Lamda\bin\Debug\net6.0\4_5Lamda.dll
+C:\_Workspace\Week1Project\4_1Interface\4_5Lamda\bin\Debug\net6.0\4_5Lamda.pdb
+C:\_Workspace\Week1Project\4_1Interface\4_5Lamda\obj\Debug\net6.0\4_5Lamda.GeneratedMSBuildEditorConfig.editorconfig
+C:\_Workspace\Week1Project\4_1Interface\4_5Lamda\obj\Debug\net6.0\4_5Lamda.AssemblyInfoInputs.cache
+C:\_Workspace\Week1Project\4_1Interface\4_5Lamda\obj\Debug\net6.0\4_5Lamda.AssemblyInfo.cs
+C:\_Workspace\Week1Project\4_1Interface\4_5Lamda\obj\Debug\net6.0\4_5Lamda.csproj.CoreCompileInputs.cache
+C:\_Workspace\Week1Project\4_1Interface\4_5Lamda\obj\Debug\net6.0\4_5Lamda.dll
+C:\_Workspace\Week1Project\4_1Interface\4_5Lamda\obj\Debug\net6.0\refint\4_5Lamda.dll
+C:\_Workspace\Week1Project\4_1Interface\4_5Lamda\obj\Debug\net6.0\4_5Lamda.pdb
+C:\_Workspace\Week1Project\4_1Interface\4_5Lamda\obj\Debug\net6.0\4_5Lamda.genruntimeconfig.cache
+C:\_Workspace\Week1Project\4_1Interface\4_5Lamda\obj\Debug\net6.0\ref\4_5Lamda.dll

@@ -1,0 +1,14 @@
+C:\_Workspace\Week1Project\4_1Interface\4_7FunAct\bin\Debug\net6.0\4_7FunAct.exe
+C:\_Workspace\Week1Project\4_1Interface\4_7FunAct\bin\Debug\net6.0\4_7FunAct.deps.json
+C:\_Workspace\Week1Project\4_1Interface\4_7FunAct\bin\Debug\net6.0\4_7FunAct.runtimeconfig.json
+C:\_Workspace\Week1Project\4_1Interface\4_7FunAct\bin\Debug\net6.0\4_7FunAct.dll
+C:\_Workspace\Week1Project\4_1Interface\4_7FunAct\bin\Debug\net6.0\4_7FunAct.pdb
+C:\_Workspace\Week1Project\4_1Interface\4_7FunAct\obj\Debug\net6.0\4_7FunAct.GeneratedMSBuildEditorConfig.editorconfig
+C:\_Workspace\Week1Project\4_1Interface\4_7FunAct\obj\Debug\net6.0\4_7FunAct.AssemblyInfoInputs.cache
+C:\_Workspace\Week1Project\4_1Interface\4_7FunAct\obj\Debug\net6.0\4_7FunAct.AssemblyInfo.cs
+C:\_Workspace\Week1Project\4_1Interface\4_7FunAct\obj\Debug\net6.0\4_7FunAct.csproj.CoreCompileInputs.cache
+C:\_Workspace\Week1Project\4_1Interface\4_7FunAct\obj\Debug\net6.0\4_7FunAct.dll
+C:\_Workspace\Week1Project\4_1Interface\4_7FunAct\obj\Debug\net6.0\refint\4_7FunAct.dll
+C:\_Workspace\Week1Project\4_1Interface\4_7FunAct\obj\Debug\net6.0\4_7FunAct.pdb
+C:\_Workspace\Week1Project\4_1Interface\4_7FunAct\obj\Debug\net6.0\4_7FunAct.genruntimeconfig.cache
+C:\_Workspace\Week1Project\4_1Interface\4_7FunAct\obj\Debug\net6.0\ref\4_7FunAct.dll

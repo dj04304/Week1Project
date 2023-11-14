@@ -26,6 +26,7 @@ namespace _3_10HomeWorkBlackJack
             // 플레이어 버스트시 false
             bool playerBust = false;
 
+            //string.Join에서 나열된 배열을 ,로 구분하는 변수
             string seperator = ", ";
 
             // 카드 나눠주기 단계
@@ -38,7 +39,7 @@ namespace _3_10HomeWorkBlackJack
             // 게임 진행
             while(true)
             {
-                // 나눠준 패 출력
+                // 나눠준 패 출력 string.Join -> 배열을 이어붙여서 출력해주는 역할
                 Console.WriteLine("플레이어 손패: " + string.Join(seperator, playerDeck));
                 Console.WriteLine("딜러 손패: " + dealerDeck[0] + ", [뒷면]");
                 
@@ -60,22 +61,27 @@ namespace _3_10HomeWorkBlackJack
                         playerBust = true;
                         Console.WriteLine("플레이어 카드 버스트! 21이 넘었습니다!");
                     }
-                }
-                else if(userInput == "N")
-                {
-                    break;
-                }else
-                {
-                    Console.Write("잘못된 입력입니다. 다시 입력해주세요!");
-                }
-
+                    }
+                    else if(userInput == "N")
+                    {
+                        break;
+                    }else
+                    {
+                        Console.Write("잘못된 입력입니다. 다시 입력해주세요!");
+                    }
                 Console.Clear();
+
             }
 
             // 딜러 카드 계산단계
             while (Calculator(dealerDeck) < 17)
             {
                 dealerDeck.Add(Shuffle(deck));
+
+                if(Calculator(dealerDeck) > 21)
+                {
+                    GameOver(playerDeck, dealerDeck);
+                }
             }
 
             Console.Clear();
@@ -142,6 +148,7 @@ namespace _3_10HomeWorkBlackJack
         static int Calculator(List<string> handCard)
         {
             int totalValue = 0;
+            //ace카드를 먹었을 때 카운드
             int aceCount = 0;
 
             foreach(string card in handCard)
@@ -163,6 +170,7 @@ namespace _3_10HomeWorkBlackJack
                 }
             }
 
+            // A카드가 11일 때 1로 해주는 함수
             while(aceCount > 0 && totalValue > 21)
             {
                 totalValue -= 10;
